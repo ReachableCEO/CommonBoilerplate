@@ -14,7 +14,7 @@ bank, association, cooperative, trust, estate, government, governmental
 agency, regulatory authority, or other entity of any nature.
 
 ## "**Company**" 
-means Suborbital Systems Development Co LLC
+means the organization defined in Section Company Name 
 
 ## "**Membership Interest**" or "**Beneficial Interest**" 
 means a Person\'s right to share in the income, gains, losses, deductions,
