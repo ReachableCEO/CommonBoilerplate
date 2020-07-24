@@ -1,8 +1,8 @@
 # Company NDA
 
 ## Purpose
-Joining the Suborbital Systems Development Company LLC organization as a Member
-to discuss material non public information related to: Suborbital Systems Development Company LLC 
+Joining the Company organization as a Member to discuss material non public information related 
+to the Company
 
 ## Governing State Law
 Texas, USA
