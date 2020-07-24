@@ -27,7 +27,7 @@ binding upon any Member unless set forth in a document duly executed by such Mem
 
 The parties will amend this agreement only by cosigned, written agreement. 
 
-# Binding Arbitration and waiver of rights
+## Binding Arbitration and waiver of rights
 
 IF FOR ANY REASON THIS
 ARBITRATION CLAUSE BECOMES NOT APPLICABLE, THEN EACH PARTY, TO THE
