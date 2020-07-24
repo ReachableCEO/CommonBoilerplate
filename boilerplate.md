@@ -1,5 +1,6 @@
+# Common terms and conditions
 
-# Not registered securities
+## Not registered securities
 
 THE LIMITED LIABILITY COMPANY UNITS REFERRED TO HEREIN (THE “UNITS”) HAVE NOT 
 BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “1933 ACT”).  
@@ -14,7 +15,7 @@ REGISTERED OR AN EXEMPTION FROM REGISTRATION IS AVAILABLE.
 
 THERE IS NO OBLIGATION OF THE ISSUER TO REGISTER THE UNITS UNDER THE 1933 ACT.
 
-# Entire Agreement
+## Entire Agreement
 
 All parties agree that this Agreement is the final, complete and exclusive statement of the 
 mutual understanding of the parties and supersedes and cancels all previous written 
@@ -77,7 +78,7 @@ such party.
 speculative damages to either party and shall not have the power to 
 amend this Agreement. 
 
-# Ownership of Property and No Right of Partition
+## Ownership of Property and No Right of Partition
 * A Member's interest in the Company shall be personal property for all purposes. 
 
 * No Member shall have any right to partition the property owned by the Company.
@@ -124,13 +125,11 @@ for any
 
 
 
-# Involvement of Members in Certain Proceedings
+## Involvement of Members in Certain Proceedings
 
 Should any Member become involved in legal proceedings unrelated to the 
-Company's business
-in which the Company is required to provide books, records, an
-accounting, or other information, then such Member 
-
+Company's business in which the Company is required to provide books, records, an
+accounting, or other information, then such Member :
 
 * shall indemnify the Company from all expenses incurred in conjunction therewith.
 
@@ -143,11 +142,11 @@ accounting, or other information, then such Member
 and agrees that the Member may face immediate expulsion for exposing the Company
 in such an irresonsible manner.
 
-# No Third-Party Enforcement
+## No Third-Party Enforcement
 
 Only the parties to this agreement may enforce rights under this agreement. 
 
-# Waiver
+## Waiver
 No consent or waiver, express or implied, by any Member of
 any breach or default by any other Member in the performance by the
 other Member of its obligations hereunder shall be deemed or construed
@@ -157,7 +156,7 @@ hereunder. Failure on the part of any Member to complain of any act or
 to declare any other Member in default, irrespective of how long such
 failure continues, shall not constitute a waiver of rights hereunder.
 
-# Severability
+## Severability
 If any provision of this Agreement or the application
 thereof to any Person or circumstances shall be judged by 
 any court of competent jurisdiction to be unenforceable or invalid, 
@@ -167,12 +166,12 @@ Agreement and the application of such provisions to other Persons or
 circumstances shall not be affected thereby and shall be enforced to the
 greatest extent permitted by law.
 
-# Legal Relationship
+## Legal Relationship
 
 The parties to this agreement remain independent parties. This agreement does not create any partnership, joint venture, agency,
 or similar relationship between the parties.
 
-# No Assignment or Delegation
+## No Assignment or Delegation
 
 * No party may assign any right or delegate any obligation under this agreement 
 
@@ -185,20 +184,20 @@ any power or any rights hereunder will operate as a waiver thereof, nor will any
 partial exercise of any right or power hereunder preclude further exercise of any other right 
 hereunder. 
 
-# Governing Law
+## Governing Law
 This Agreement and the obligations of the Members
 hereunder shall be construed and enforced in accordance with the laws of
 the State of Texas, excluding any conflicts of law rule or principle
 which might refer such construction to the laws of another state or
 country.
 
-# Signature
+## Signature
 
 An electronically signed copy of this agreement delivered by e-mail or other electronic 
 means has the same legal effect as delivering a printed and signed original.
 
 
-# Notices
+## Notices
 
 * The parties shall send every notice, demand, consent, request, or other communication 
 required or allowed by this agreement by e-mail to the e-mail address the other party provided 
@@ -210,11 +209,11 @@ at the e-mail address of the addressee.
 * By giving written notice thereof, each Member shall have the right from time to time to 
 change its address pursuant hereto.
 
-# No Agreement to Employ. 
+## No Agreement to Employ
 
 Nothing in this Agreement shall affect any right that Participant may have to be employed or to maintain employment or a similar relationship (if applicable) with the Company or with any affiliated entity. 
 
-# Captions, References
+## Captions, References
 
 Pronouns wherever used herein, and of
 whatever gender, shall include natural persons and corporations and
@@ -230,28 +229,28 @@ particular "Article" or a "Section" shall be construed as referring to
 the indicated article or section of this Agreement unless the context
 indicates to the contrary.
 
-# Place of Business and Office; Resident Agent
+## Place of Business and Office; Resident Agent
 The address of the registered agent of the Company for service of process on the
 Company in the State of Texas (and also the Company primary office)
 is located at: 17801 Richelle Cv , Pflugerville TX, 78660
 
-# Term
+## Term
 The term of the Company shall commence upon the filing of the
 Certificate of Formation with the Texas Secretary of State and shall
 have perpetual existence unless it shall be dissolved and its affairs
 shall have been wound up as provided in Section Dissolution and Winding Up of Business.
 
-# Qualification in Other Jurisdictions. 
+## Qualification in Other Jurisdictions. 
 The Company may register in any other jurisdiction upon the approval of the Board Of Directors.
 
-# No State Law Partnership. 
+## No State Law Partnership. 
 The Company shall not be a partnership or
 joint venturer under any state or federal law, and no Member or Director 
 shall be a partner or joint venture of any other Member or Director for
 any purposes; other than under the Code or other applicable tax laws,
 and this Agreement may not be construed otherwise.
 
-# General Restrictions on Dispositions of Membership Interests
+## General Restrictions on Dispositions of Membership Interests
 A Member may not make an assignment, transfer or
 other disposition (voluntarily, involuntarily or by operation of law) (a
 "**Transfer**") of all or any portion of his or her Membership Interest,
