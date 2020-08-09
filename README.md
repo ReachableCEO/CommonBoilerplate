@@ -2,9 +2,9 @@
 
 This is the common and boilerplate items used across all op agreements and bylaws (as appropriate). 
 
-Common bits such as 
+Common bits such as :
 
-* definitons 
+* definitions 
 * conflict of interest policy
 * NDA
 * IP Assignment
